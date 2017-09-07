@@ -1,4 +1,4 @@
-const API = "http://api.wunderground.com/api/e446b8b04fffcbcc/conditions/q/MA/Boston.json";
+const API = "//api.wunderground.com/api/e446b8b04fffcbcc/conditions/q/MA/Boston.json";
 
 export const REQUEST = "REQUEST";
 export const RESPONSE = "RESPONSE";
