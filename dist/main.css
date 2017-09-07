@@ -1,0 +1,33 @@
+.panel {
+    padding: 1em;
+    background: #eee;
+    max-width: 800px;
+    margin: 1em auto;
+    border-radius: .3em;
+}.weather {
+    margin: 1em 0;
+}
+.weather-image-container {
+    float: left;
+    margin-right: 1em
+}
+.weather-image-label {
+    font-size: .8em;
+    text-align: center
+}
+.weather-location {
+    font-weight: bold;
+    padding-top: 1em
+}
+.weather-updated-time {
+    font-size: .7em;
+    font-style: italic
+}
+.weather-actions {
+    padding: 1em 0   
+}.nav a {
+    display: inline-block;
+    text-decoration: none;
+    margin: .5em;
+    color: blue;
+}

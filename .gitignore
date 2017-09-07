@@ -5,5 +5,4 @@ npm-debug.log*
 .npm
 .idea
 .DS_Store
-dist
 node_modules
