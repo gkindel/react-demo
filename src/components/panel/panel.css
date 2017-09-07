@@ -1,0 +1,7 @@
+.panel {
+    padding: 1em;
+    background: #eee;
+    max-width: 800px;
+    margin: 1em auto;
+    border-radius: .3em;
+}
